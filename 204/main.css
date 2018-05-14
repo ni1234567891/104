@@ -62,3 +62,77 @@ img{
 	background: url(images/Polaroid-all.jpg);
 	float: left;
 }
+#photo4 {
+	left: 20px;
+	top: 0px;
+	width: 265px;
+	height: 300px;
+	float: left;
+	background-image: url(images/Polaroid-04.jpg);
+	background-position: left;
+	position: relative;
+}
+
+a:link {
+	color: #88A2AE;
+	text-decoration: none;
+}
+a:visited {
+	color: #88A2AE;
+	text-decoration: none;
+}
+a:hover {
+	color: #385058;
+}
+a:active {
+	text-decoration: none;
+}
+#menu ul {
+	margin: 0px;
+}
+#menu li {
+	float: left;
+	margin-top: 10px;
+	margin-left: 70px;
+	list-style-type: none;
+}
+#column1 {
+	background-color: #C5D2D8;
+	display: inline;
+	float: left;
+	width: 140px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+#column2 {
+	background-color: #E1E9EC;
+	display: inline;
+	float: left;
+	width: 140px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+#column3 {
+	background-color: #C5D2D8;
+	display: inline;
+	float: left;
+	width: 140px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+#column4 {
+	background-color: #E1E9EC;
+	display: inline;
+	float: left;
+	width: 140px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
